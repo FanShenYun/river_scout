@@ -1,0 +1,337 @@
+﻿Name,layer,Catchment,COUNTYID,COUNTYCODE,COUNTYNAME,COUNTYENG
+轆轆溫泉 Lulu Hot Spring,hot_spring,lulu,V,10014,臺東縣,Taitung County
+金崙野溪溫泉 Jinlun Hot Spring,hot_spring,jinlun,V,10014,臺東縣,Taitung County
+清水野溪溫泉 Qingshui Hot Spring,hot_spring,qinsghui,G,10002,宜蘭縣,Yilan County
+烏來溫泉 Wulai Hot Spring,hot_spring,wulai,F,65000,新北市,New Taipei City
+碧山溫泉 Bishan Hot Spring,hot_spring,bishan,V,10014,臺東縣,Taitung County
+紅葉紅橋溫泉 Hongye Red Bridge Hot Spring,hot_spring,red_leaf,V,10014,臺東縣,Taitung County
+紅葉紅橋溫泉 Hongye Red Bridge Hot Spring,hot_spring,red_leaf,V,10014,臺東縣,Taitung County
+Campsite for HaYouXi Hostprings 哈尤溪溫泉,hot_spring,ailiao_north_river,T,10013,屏東縣,Pingtung County
+泰安溫泉 Tai'an Hot Spring,hot_spring,shuiyun,K,10005,苗栗縣,Miaoli County
+樂樂谷野溪溫泉 Lelegu Hot Spring,hot_spring,lelegu,M,10008,南投縣,Nantou County
+栗松溫泉 Lisong Hot Spring ,hot_spring,lisong,V,10014,臺東縣,Taitung County
+精英野溪溫泉 Jingying Hot Spring ,hot_spring,jingying,M,10008,南投縣,Nantou County
+四陵溫泉 Sileng Hot Spring,hot_spring,sileng,H,68000,桃園市,Taoyuan City
+四陵溫泉 Sileng Hot Spring,hot_spring,taman,H,68000,桃園市,Taoyuan City
+四陵溫泉 Sileng Hot Spring,hot_spring,tieshan,H,68000,桃園市,Taoyuan City
+紅葉溫泉 Hongye Hot Spring,hot_spring,red_leaf,V,10014,臺東縣,Taitung County
+哈尤溪溫泉 Hayouxi Hostprings ,hot_spring,ailiao_north_river,T,10013,屏東縣,Pingtung County
+秀巒溫泉 Xiuluan Hot spring ,hot_spring,xiuluan,J,10004,新竹縣,Hsinchu County
+秀巒溫泉 Xiuluan Hot spring ,hot_spring,youling,J,10004,新竹縣,Hsinchu County
+秀巒溫泉 Xiuluan Hot spring ,hot_spring,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+小錦屏溫泉 Xiao Jinping Hot Spring ,hot_spring,xiaojinping,J,10004,新竹縣,Hsinchu County
+金峰溫泉 Jinfeng Hotspring ,hot_spring,jinfeng,V,10014,臺東縣,Taitung County
+紅葉溫泉 Hongye Hot Spring,hot_spring,red_leaf,V,10014,臺東縣,Taitung County
+排骨溪溫泉 Pork Ribs River Hot Spring ,hot_spring,pork_ribs,G,10002,宜蘭縣,Yilan County
+梵梵溫泉 2 Fanfan Hot Spring 2 ,hot_spring,fanfan,G,10002,宜蘭縣,Yilan County
+梵梵溫泉 1 Fanfan Hot Spring 1 ,hot_spring,fanfan,G,10002,宜蘭縣,Yilan County
+嘎拉賀温泉瀑布 Galahe Hotspring Waterfall ,hot_spring,galahe,H,68000,桃園市,Taoyuan City
+嘎拉賀温泉瀑布 Galahe Hotspring Waterfall ,hot_spring,taman,H,68000,桃園市,Taoyuan City
+嘎拉賀温泉瀑布 Galahe Hotspring Waterfall ,hot_spring,tieshan,H,68000,桃園市,Taoyuan City
+泰崗溫泉 Taigang Hot Spring  ,hot_spring,taigang,J,10004,新竹縣,Hsinchu County
+泰崗溫泉 Taigang Hot Spring  ,hot_spring,xiuluan,J,10004,新竹縣,Hsinchu County
+泰崗溫泉 Taigang Hot Spring  ,hot_spring,youling,J,10004,新竹縣,Hsinchu County
+泰崗溫泉 Taigang Hot Spring  ,hot_spring,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+太魯灣溫泉 Tailuwan Hot Spring,hot_spring,jingying,M,10008,南投縣,Nantou County
+春陽溫泉 Chunyang Hot Spring,hot_spring,jingying,M,10008,南投縣,Nantou County
+雲海溫泉 Yunhai Hot Spring,hot_spring,jingying,M,10008,南投縣,Nantou County
+馬陵野溪溫泉一號 Maling Hot Spring 1,hot_spring,maling,B,66000,臺中市,Taichung City
+馬陵野溪溫泉二號 Maling Hot Spring 2,hot_spring,maling,B,66000,臺中市,Taichung City
+石洞溫泉 Shidong Hot Spring,hot_spring,qikeng,E,64000,高雄市,Kaohsiung City
+文山溫泉 Wenshan Hot Spring,hot_spring,liqin,U,10015,花蓮縣,Hualien County
+文山溫泉 Wenshan Hot Spring,hot_spring,wenshan,U,10015,花蓮縣,Hualien County
+瑞岩溫泉 Ruiyan Hot Spring,hot_spring,ruiyan,M,10008,南投縣,Nantou County
+七坑溫泉 Qikeng Hot Spring,hot_spring,qikeng,E,64000,高雄市,Kaohsiung City
+十坑溫泉 Shikeng Hot Spring,hot_spring,qikeng,E,64000,高雄市,Kaohsiung City
+土阪溫泉 Tuban Hot Spring,hot_spring,tuban,V,10014,臺東縣,Taitung County
+復興溫泉 Fuxing Hot Spring,hot_spring,lao_nong_river,E,64000,高雄市,Kaohsiung City
+上里溫泉 Shangli Hot Spring,hot_spring,red_leaf,V,10014,臺東縣,Taitung County
+大武溫泉 Dawu Hot Spring,hot_spring,ailiao_north_river,T,10013,屏東縣,Pingtung County
+摩里沙卡洞穴溫泉 Malishaka Cave Hot Spring,hot_spring,malishaka,U,10015,花蓮縣,Hualien County
+天狗溪噴泉To Tiangou Geyser,hot_spring,tiangou_river,G,10002,宜蘭縣,Yilan County
+濁口溪 Zhuokou River,kayak,zhuokou_river,E,64000,高雄市,Kaohsiung City
+隘寮北溪 Ailiao North River,kayak,ailiao_north_river,T,10013,屏東縣,Pingtung County
+馬武窟溪口 Mawuku River Estruary,kayak,mawuku,V,10014,臺東縣,Taitung County
+湖濱公園 Lakeside Park,lake_camp,white_horse,Q,10010,嘉義縣,Chiayi County
+楠西堰塞湖二號 Nanxi Earthquake Lake #2,lake_camp,nanxi,D,67000,臺南市,Tainan City
+楠西堰塞湖三號 Nanxi Earthquake Lake #3,lake_camp,nanxi,D,67000,臺南市,Tainan City
+楠西堰塞湖一號 Nanxi Earthquake Lake #1,lake_camp,nanxi,D,67000,臺南市,Tainan City
+九份二山堰塞湖露營 921 Earthquake Lakes Camping,lake_camp,sezikeng,M,10008,南投縣,Nantou County
+福壽山露營 Fushou Mountain Camping ,lake_camp,fushou,M,10008,南投縣,Nantou County
+福壽山露營 Fushou Mountain Camping ,lake_camp,maling,M,10008,南投縣,Nantou County
+塔塔加露營 Tatajia Camping,lake_camp,tatajia,M,10008,南投縣,Nantou County
+九份二山堰塞湖露營 921 Earthquake Lakes Camping,lake_camp,sezikeng,M,10008,南投縣,Nantou County
+韭菜湖 Jiucaihu Lake,lake_camp,sezikeng,M,10008,南投縣,Nantou County
+澀仔坑湖 Sezikeng Lake,lake_camp,sezikeng,M,10008,南投縣,Nantou County
+湖濱公園 Lakeside Park,lake_camp,white_horse,Q,10010,嘉義縣,Chiayi County
+白馬亭 White Horse Pavilion,lake_camp,white_horse,Q,10010,嘉義縣,Chiayi County
+湖濱公園 Lakeside Park,lake_camp,white_horse,Q,10010,嘉義縣,Chiayi County
+湖濱公園 Lakeside Park,lake_camp,white_horse,Q,10010,嘉義縣,Chiayi County
+仙湖 Celestial Lake,lake_camp,celestial,J,10004,新竹縣,Hsinchu County
+天狗溪瀑布 Tiangou Waterfall,lake_camp,tiangou_river,G,10002,宜蘭縣,Yilan County
+七孔瀑布 Seven Holes Waterfall,lake_camp,seven_holes,T,10013,屏東縣,Pingtung County
+拉克斯溪游泳池  Lakesi River Swimming Pools,lake_camp,lao_nong_river,E,64000,高雄市,Kaohsiung City
+石頭溪堰塞湖  Rock River Landslide Lake,lake_camp,rock_river,G,10002,宜蘭縣,Yilan County
+伊拉瀑布 Yila Top Waterfall  ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+伊拉瀑布 Yila Waterfall ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+神山瀑布 Shenshan Waterfall  ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+神山瀑布中 Shenshan Middle Waterfall ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+神山瀑布 Shenshan Lower Waterfall ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+武潭瀑布 (東西瀑布) Wutan Waterfall (Dongxi Waterfall) ,waterfall,dong_gang_river,T,10013,屏東縣,Pingtung County
+武潭瀑布上 (東西瀑布上) Wutan Waterfall (Dongxi Waterfall) Upper ,waterfall,dong_gang_river,T,10013,屏東縣,Pingtung County
+神鷹瀑布下 Eagle God Waterfall Lower ,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+神鷹瀑布中 Eagle God Waterfall Middle,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+神鷹瀑布上 Eagle God Waterfall Upper,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+鴛鴦瀑布 Yuanyang Waterfall ,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+小瀑布 Small Waterfall,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+牛角溪瀑布群下 Oxbow Creek Waterfalls Group Lower,waterfall,oxbow_creek_river,T,10013,屏東縣,Pingtung County
+牛角溪瀑布群上 Oxbow Creek Waterfalls Group Upper,waterfall,oxbow_creek_river,T,10013,屏東縣,Pingtung County
+獅王瀑布 Lion King Waterfall,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+鹿溪瀑布 Deer Creek Waterfall,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+兩頭蛇瀑布 Malagagulis Waterfall ,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+沙拉灣瀑布 Shalawan Waterfall,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+小瀑布 Small Waterfall ,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+路邊的瀑布 Roadside Waterfall ,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+路邊的瀑布 Roadside Waterfall,waterfall,ailiao_south_river,T,10013,屏東縣,Pingtung County
+泰武鄉 Puljeti Waterfall  佳興橋瀑布,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+海神瀑布 Ocean Gods's Waterfall ,waterfall,sand_river,T,10013,屏東縣,Pingtung County
+小瀑布 Small Waterfall ,waterfall,sand_river,T,10013,屏東縣,Pingtung County
+小瀑布 Small Waterfall,waterfall,sand_river,T,10013,屏東縣,Pingtung County
+海神宮 Ocean God's Pools ,waterfall,sand_river,T,10013,屏東縣,Pingtung County
+日暮瀑布 Sunset Waterfall ,waterfall,lili_river,T,10013,屏東縣,Pingtung County
+打鼓谷瀑布第一層 Drumline Canyon Waterfall 1st Tier   ,waterfall,drumline_canyon_river,T,10013,屏東縣,Pingtung County
+打鼓谷瀑布第三層 Drumline Canyon Waterfall 3rd Tier ,waterfall,drumline_canyon_river,T,10013,屏東縣,Pingtung County
+青龍瀑布跳水 Green Dragon Waterfall Driving Spot ,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+青龍瀑布海灘 Green Dragon Waterfall Beach ,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+戰備道路橋瀑布 Zhuanbei Bridge Waterfall ,waterfall,qingyun,Q,10010,嘉義縣,Chiayi County
+青龍瀑布 Green Dragon Waterfall  ,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+草山瀑布 Caoshan Waterfall ,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+青雲瀑布 Qingyun Waterfall,waterfall,qingyun,Q,10010,嘉義縣,Chiayi County
+來義路邊的瀑布 Layi Roadside Waterfall ,waterfall,lin_bian_river,T,10013,屏東縣,Pingtung County
+舊白鷺橋瀑布 Old Bailu Bridge Waterfall ,waterfall,old_bailu,T,10013,屏東縣,Pingtung County
+葫蘆谷瀑布 Gourd Valley ,waterfall,dai_zhi,E,64000,高雄市,Kaohsiung City
+情人谷第二層 Lover's Gorge 2nd Tier ,waterfall,taiwanaxi,E,64000,高雄市,Kaohsiung City
+幽情瀑布 Youqing Waterfall ,waterfall,taiwanaxi,E,64000,高雄市,Kaohsiung City
+拉把力安瀑布 La'ba'li'an waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+阿禮瀑布 Ali waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+阿禮大崩壁瀑布 Alidabeng Waterfall ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+哈尤溪溫泉步道瀑布 Waterfall near HaYouXi Hostprings ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+東港瀑布 DongGang Waterfall,waterfall,dong_gang_river,T,10013,屏東縣,Pingtung County
+東港瀑布 2 DongGang Waterfall  2,waterfall,dong_gang_river,T,10013,屏東縣,Pingtung County
+萬安瀑布 Wanan Waterfall ,waterfall,wanan_river,T,10013,屏東縣,Pingtung County
+嶺腳瀑布 LingJiao Waterfall ,waterfall,lingjiao,F,65000,新北市,New Taipei City
+雙龍瀑布大橋 Double Dragon Waterfall Bridge,waterfall,double_dragon,M,10008,南投縣,Nantou County
+雙龍瀑布 Double Dragon Waterfall,waterfall,double_dragon,M,10008,南投縣,Nantou County
+小半天瀑布 XiaoBanTian Waterfall ,waterfall,desing,M,10008,南投縣,Nantou County
+徳興瀑布 Desing Waterfall ,waterfall,desing,M,10008,南投縣,Nantou County
+徳興瀑布第二層 Desing Waterfall tier 2 ,waterfall,desing,M,10008,南投縣,Nantou County
+鳳凰瀑布 FengHuang Waterfall ,waterfall,fenghuang_hua,U,10015,花蓮縣,Hualien County
+蕓森瀑布 Yunsen Waterfall ,waterfall,yunsen,F,65000,新北市,New Taipei City
+鐵木瀑布 Ironwood Waterfall,waterfall,ironwood,H,68000,桃園市,Taoyuan City
+這本林道瀑布 Zhiben Forest Road Waterfall ,waterfall,baiyu,V,10014,臺東縣,Taitung County
+大興瀑布 Dasing Waterfall ,waterfall,dasing,U,10015,花蓮縣,Hualien County
+麻荖漏步道 彩虹瀑布 新港瀑布 Rainbow Waterfall on Malaolou Trail ,waterfall,rainbow,V,10014,臺東縣,Taitung County
+羅山瀑布 Luoshan Waterfall ,waterfall,luoshan,U,10015,花蓮縣,Hualien County
+彩虹橋瀑布 Rainbow Bridge Waterfall ,waterfall,yunsen,F,65000,新北市,New Taipei City
+彩虹瀑布 Rainbow Waterfall ,waterfall,nantou_rainbow,M,10008,南投縣,Nantou County
+白水泉瀑布 Baishuiyuan waterfall ,waterfall,baishuiyuan,E,64000,高雄市,Kaohsiung City
+美雅谷瀑布 Meiya Valley Waterfall,waterfall,meiya,E,64000,高雄市,Kaohsiung City
+水簾洞瀑布 Shuiliandong Waterfall ,waterfall,youling,H,68000,桃園市,Taoyuan City
+幽靈瀑布 Youling Waterfall  (Spirit Waterfall),waterfall,youling,H,68000,桃園市,Taoyuan City
+失魂瀑布 Lost Souls Waterfall  (Shihun Waterfall),waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+茂林故瀑布 Maolin valley waterfall ,waterfall,maolin,E,64000,高雄市,Kaohsiung City
+小錦屏瀑布友 Xiao Jinping Waterfall Right ,waterfall,xiaojinping,J,10004,新竹縣,Hsinchu County
+鴛鴦谷瀑布 Yuanyang Valley Waterfall ,waterfall,yuanyang_valley,J,10004,新竹縣,Hsinchu County
+青蛙石瀑布 Frog Rock Waterfall,waterfall,bilin,J,10004,新竹縣,Hsinchu County
+新峰瀑布 Xinfeng Waterfall ,waterfall,xinfeng,G,10002,宜蘭縣,Yilan County
+谷燕瀑布 Guyan Waterfall,waterfall,celestial,J,10004,新竹縣,Hsinchu County
+小烏來瀑布 Xiaowulai Waterfall ,waterfall,xiaowulai,H,68000,桃園市,Taoyuan City
+龍鳳瀑布 Longfeng Waterfall ,waterfall,xiaowulai,H,68000,桃園市,Taoyuan City
+鬼斧谷瀑布 Ghost Ax Canyon Waterfall ,waterfall,ghost_ax,E,64000,高雄市,Kaohsiung City
+鬼斧谷瀑布 Ghost Ax Canyon Waterfall ,waterfall,zhuokou_river,E,64000,高雄市,Kaohsiung City
+大水沖瀑布 Dashuichong Waterfall ,waterfall,Dashuichong,T,10013,屏東縣,Pingtung County
+大津瀑布 Dajin Waterfall ,waterfall,drumline_canyon_river,T,10013,屏東縣,Pingtung County
+金峰瀑布 Jinfeng Waterfall ,waterfall,jinfeng,V,10014,臺東縣,Taitung County
+白玉瀑布 Baiyu Waterfall ,waterfall,baiyu,V,10014,臺東縣,Taitung County
+筆筒樹瀑布 Tree Fern Waterfall ,waterfall,baiyu,V,10014,臺東縣,Taitung County
+龍泉瀑布 Longquan Waterfall,waterfall,longquan,V,10014,臺東縣,Taitung County
+中溝瀑布 Trench Waterfall ,waterfall,trench,U,10015,花蓮縣,Hualien County
+鐵份瀑布 Tiefen Waterfall ,waterfall,tiefen,U,10015,花蓮縣,Hualien County
+猴洞坑瀑布 Houdongkeng Waterfall,waterfall,echo_valley,G,10002,宜蘭縣,Yilan County
+五峰旗瀑布 2 Wufengchi Waterfalls 2 ,waterfall,yuenmeikeng,G,10002,宜蘭縣,Yilan County
+五峰旗瀑布 1 Wufengchi Waterfalls 1    ,waterfall,yuenmeikeng,G,10002,宜蘭縣,Yilan County
+馬里光瀑布 Maliguang Waterfall,waterfall,youling,J,10004,新竹縣,Hsinchu County
+馬里科瀑布 Malike Waterfall ,waterfall,malike,J,10004,新竹縣,Hsinchu County
+馬里科瀑布 Malike Waterfall ,waterfall,youling,J,10004,新竹縣,Hsinchu County
+馬里科瀑布 Malike Waterfall ,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+龍鳳瀑布 Longfeng Waterfall ,waterfall,flag_lake_waterfall,P,10009,雲林縣,Yunlin County
+靈泉騰蛟 Lingquan Tengjiao ,waterfall,flag_lake_waterfall,P,10009,雲林縣,Yunlin County
+地久瀑布 Dijiu Waterfall ,waterfall,flag_lake_waterfall,P,10009,雲林縣,Yunlin County
+蓬萊瀑布 Penglai Waterfall ,waterfall,penglai,P,10009,雲林縣,Yunlin County
+水濂洞瀑布 Shuiliandong Waterfall ,waterfall,penglai,P,10009,雲林縣,Yunlin County
+情人谷瀑布 Lover's Gorge Waterfall ,waterfall,shi_pan_gu_river,Q,10010,嘉義縣,Chiayi County
+連心池瀑布和游龍湖步道 Liansin Pond Waterfall and Youlong Lake Trail  ,waterfall,penglai,P,10009,雲林縣,Yunlin County
+賀伯峽谷瀑布 Hebo Valley Waterfall,waterfall,shi_pan_gu_river,Q,10010,嘉義縣,Chiayi County
+飛龍瀑布 Flying Dragon Waterfall ,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+雲龍瀑布 Yunlong Waterfall ,waterfall,lelegu,M,10008,南投縣,Nantou County
+霧瓦娜溪瀑布 Taiwanaxi Waterfall ,waterfall,taiwanaxi,E,64000,高雄市,Kaohsiung City
+望古瀑布 Wanggu Waterfall ,waterfall,wanggu,F,65000,新北市,New Taipei City
+比麟瀑布 Bilin Waterfall ,waterfall,bilin,J,10004,新竹縣,Hsinchu County
+高義瀑布5 Gaoyi Waterfall 5,waterfall,gaoyi,H,68000,桃園市,Taoyuan City
+高義瀑布群 Gaoyi Waterfall Group ,waterfall,gaoyi,H,68000,桃園市,Taoyuan City
+梅花瀑布 Meihua Waterfall,waterfall,meihua,J,10004,新竹縣,Hsinchu County
+宇內溪滑水道 Yunei Waterslide ,waterfall,xiaowulai,H,68000,桃園市,Taoyuan City
+三民蝙蝠洞 Sanmin Bat Cave,waterfall,sanmin,H,68000,桃園市,Taoyuan City
+彩虹瀑布（時雨瀑布),waterfall,shigure,U,10015,花蓮縣,Hualien County
+Rainbow Waterfall,,,,,,
+夢谷瀑布 Dream Valley Waterfall,waterfall,caidie,M,10008,南投縣,Nantou County
+涼山瀑布三層 Liangshan Waterfall 3rd Tier,waterfall,oxbow_creek_river,T,10013,屏東縣,Pingtung County
+涼山瀑布二層 Liangshan Waterfall 2nd Tier,waterfall,oxbow_creek_river,T,10013,屏東縣,Pingtung County
+観音瀑布 Guanyin Waterfall,waterfall,caidie,M,10008,南投縣,Nantou County
+游泳池 Swimming Pool,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+合流瀑布 Converging Waterfall,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+連雲瀑布 Lianyun Waterfall,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+長龍瀑布 Long Dragon Waterfall,waterfall,long_dragon,E,64000,高雄市,Kaohsiung City
+三龍瀑布 Three Dragons Waterfall,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+大智瀑布 Dazhi Waterfall,waterfall,dai_zhi,E,64000,高雄市,Kaohsiung City
+蝙蝠洞瀑布 Bat Cave Waterfall,waterfall,bat_cave,D,67000,臺南市,Tainan City
+人工瀑布 Manmade Waterfall  ,waterfall,sileng,G,10002,宜蘭縣,Yilan County
+人工瀑布 Manmade Waterfall  ,waterfall,taman,G,10002,宜蘭縣,Yilan County
+人工瀑布 Manmade Waterfall  ,waterfall,tieshan,G,10002,宜蘭縣,Yilan County
+北橫64K湖 Northern Cross Highway 64Km lake,waterfall,sileng,G,10002,宜蘭縣,Yilan County
+北橫64K湖 Northern Cross Highway 64Km lake,waterfall,taman,G,10002,宜蘭縣,Yilan County
+北橫64K湖 Northern Cross Highway 64Km lake,waterfall,tieshan,G,10002,宜蘭縣,Yilan County
+口社瀑布 Koushe Waterfall,waterfall,koushe_river,T,10013,屏東縣,Pingtung County
+阿拉溪鞋瀑布群 Ala Stream Waterfalls Group,waterfall,nanxi,D,67000,臺南市,Tainan City
+阿拉溪鞋瀑布群 Ala Stream Waterfalls Group,waterfall,nanxi,D,67000,臺南市,Tainan City
+阿拉溪鞋瀑布群 Ala Stream Waterfalls Group,waterfall,nanxi,D,67000,臺南市,Tainan City
+摩摩納爾瀑布 Momonaer Waterfall,waterfall,momonaer,M,10008,南投縣,Nantou County
+東卯溪瀑布 Dongmao River Waterfall,waterfall,dongmao,B,66000,臺中市,Taichung City
+扇子瀑布 Fan Waterfall ,waterfall,maple,G,10002,宜蘭縣,Yilan County
+仙女瀑布 Xiannu Waterfall,waterfall,xiannu,B,66000,臺中市,Taichung City
+德文情人湖 Lover's Lake,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+澳花瀑布 Aohua Waterfall,waterfall,aohua,G,10002,宜蘭縣,Yilan County
+帖比倫瀑布  Tiebilun Waterfall,waterfall,ruiyan,M,10008,南投縣,Nantou County
+少年溪鴛鴦瀑布 Shaonian River Yuanyang Waterfall,waterfall,long_dragon,E,64000,高雄市,Kaohsiung City
+小旗湖瀑布 Flag Lake Waterfall,waterfall,flag_lake_waterfall,M,10008,南投縣,Nantou County
+鳳凰瀑布 Fenghuang Waterfall,waterfall,fenghuang,Q,10010,嘉義縣,Chiayi County
+鳳凰瀑布 2 Fenghuang Waterfall 2,waterfall,fenghuang,Q,10010,嘉義縣,Chiayi County
+立芹瀑布 Liqin Waterfall,waterfall,liqin,U,10015,花蓮縣,Hualien County
+撒固兒瀑布 Saguer Waterfall,waterfall,saguer,U,10015,花蓮縣,Hualien County
+彩蝶瀑布 Caidie Waterfal,waterfall,caidie,M,10008,南投縣,Nantou County
+德文天鵝湖瀑布  Swan Lake Waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+鳳瀑布 Pheonix Waterfall,waterfall,dragon_phenix,M,10008,南投縣,Nantou County
+龍瀑布 Dragon Waterfall,waterfall,dragon_phenix,M,10008,南投縣,Nantou County
+蝴蝶谷瀑布 Butterfly Valley Waterfall,waterfall,butterfly_valley,B,66000,臺中市,Taichung City
+小岩瀑布 Little Rock Waterfall,waterfall,xiaojinping,J,10004,新竹縣,Hsinchu County
+蚯蚓坑  The Wormhole,waterfall,wormhole,F,65000,新北市,New Taipei City
+錦屏溪瀑布左 Jinping River Waterfall Left ,waterfall,xiaojinping,J,10004,新竹縣,Hsinchu County
+阿瑪灣瀑布群 Amawan Waterfalls Group,waterfall,amawan,T,10013,屏東縣,Pingtung County
+阿瑪灣瀑布群 Amawan Waterfalls Group,waterfall,amawan,T,10013,屏東縣,Pingtung County
+灰窯瀑布下 Lower Huiyao Waterfall,waterfall,huiyao,F,65000,新北市,New Taipei City
+灰窯瀑布上 Upper Huiyao Waterfall,waterfall,huiyao,F,65000,新北市,New Taipei City
+水載下瀑布 Shuizaixia Waterfall,waterfall,shuizaixia,K,10005,苗栗縣,Miaoli County
+霧台瀑布 Wutai Waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+澀仔坑湖瀑布 Sezikeng Lake Waterfall,waterfall,sezikeng,M,10008,南投縣,Nantou County
+富山瀑布 Fushan Waterfall,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+精英瀑布 Jingying Waterfall ,waterfall,jingying,M,10008,南投縣,Nantou County
+神仙谷瀑布 Valley of the Gods Waterfall,waterfall,god_valley,K,10005,苗栗縣,Miaoli County
+七分醉瀑布 7-layer Waterfall,waterfall,god_valley,K,10005,苗栗縣,Miaoli County
+水雲瀑布 Shuiyun Waterfall,waterfall,shuiyun,K,10005,苗栗縣,Miaoli County
+大石門瀑布 Dashimen Waterfall,waterfall,shuiyun,K,10005,苗栗縣,Miaoli County
+苦花潭瀑布 Kuhua Pond Waterfall,waterfall,god_valley,K,10005,苗栗縣,Miaoli County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,smangus,J,10004,新竹縣,Hsinchu County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,taigang,J,10004,新竹縣,Hsinchu County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,take,J,10004,新竹縣,Hsinchu County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,xiuluan,J,10004,新竹縣,Hsinchu County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,youling,J,10004,新竹縣,Hsinchu County
+司立富瀑布 Tgliq Slibu (Smangus Waterfall),waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+春陽瀑布 Chunyang Waterfall,waterfall,jingying,M,10008,南投縣,Nantou County
+瑞龍瀑布 Ruilong Waterfall,waterfall,ruilong,M,10008,南投縣,Nantou County
+馬凹溪瀑布 Ma'ao Waterfall,waterfall,shuiyun,K,10005,苗栗縣,Miaoli County
+谷關水壩尾水出口瀑布 Guguan Dam Tailwater Outlet Waterfall,waterfall,maling,B,66000,臺中市,Taichung City
+司馬限瀑布 Simaxian Waterfall,waterfall,simaxian,K,10005,苗栗縣,Miaoli County
+小雪壩瀑布 Xiao Xue Ba Waterfall,waterfall,dancing_phoenix,K,10005,苗栗縣,Miaoli County
+芙蓉瀑布 Hibiscus Waterfall,waterfall,hibiscus,M,10008,南投縣,Nantou County
+復興堰塞湖 Fuxing Landslide Lake,waterfall,lao_nong_river,E,64000,高雄市,Kaohsiung City
+大地谷瀑布 Dadigu Waterfall,waterfall,dadigu,D,67000,臺南市,Tainan City
+葫蘆谷 Gourd Canyon,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+神隱瀑布 Ashurst Waterfall,waterfall,xiaowulai,H,68000,桃園市,Taoyuan City
+金岳瀑布 Jinyue Waterfall,waterfall,jinyue,G,10002,宜蘭縣,Yilan County
+金岳滑水道 Jiyue Waterslide,waterfall,jinyue,G,10002,宜蘭縣,Yilan County
+梅后蔓瀑布 Meihouman Waterfall,waterfall,meihouman,J,10004,新竹縣,Hsinchu County
+三角湖滑水道 Three Fish Lake Waterslide,waterfall,three_fish_lake,K,10005,苗栗縣,Miaoli County
+八仙瀑布 Baxian Waterfall,waterfall,baxian,J,10004,新竹縣,Hsinchu County
+八仙瀑布 Baxian Waterfall,waterfall,celestial,J,10004,新竹縣,Hsinchu County
+天馬瀑布 Tianma Waterfall,waterfall,cao_shan_river,Q,10010,嘉義縣,Chiayi County
+高坡彩虹瀑布 Gaopo Rainbow Waterfall,waterfall,takahashi,H,68000,桃園市,Taoyuan City
+高坡橋瀑布 Takahashi Bridge Waterfall,waterfall,takahashi,H,68000,桃園市,Taoyuan City
+彩虹瀑布 Rainbow Waterfall,waterfall,galahe,H,68000,桃園市,Taoyuan City
+彩虹瀑布 Rainbow Waterfall,waterfall,taman,H,68000,桃園市,Taoyuan City
+彩虹瀑布 Rainbow Waterfall,waterfall,tieshan,H,68000,桃園市,Taoyuan City
+三層瀑布 Three Layer Waterfall,waterfall,galahe,H,68000,桃園市,Taoyuan City
+三層瀑布 Three Layer Waterfall,waterfall,taman,H,68000,桃園市,Taoyuan City
+三層瀑布 Three Layer Waterfall,waterfall,tieshan,H,68000,桃園市,Taoyuan City
+烏來瀑布 Wulai Waterfall,waterfall,wulai,F,65000,新北市,New Taipei City
+鳳舞瀑布 Dancing Phoenix Waterfall,waterfall,dancing_phoenix,K,10005,苗栗縣,Miaoli County
+蛟龍瀑布 Jiaolong Waterfall,waterfall,shi_pan_gu_river,Q,10010,嘉義縣,Chiayi County
+水上瀑布 Shuishang Waterfall,waterfall,shuishang,M,10008,南投縣,Nantou County
+水哮瀑布 Shuixiao Waterfall,waterfall,desing,M,10008,南投縣,Nantou County
+小木瓜瀑布 Little Papaya Waterfall,waterfall,little_papaya,M,10008,南投縣,Nantou County
+大隘瀑布 Da'Ai Waterfall,waterfall,celestial,J,10004,新竹縣,Hsinchu County
+杜鵑谷 Dujuan Canyon,waterfall,ghost_ax,E,64000,高雄市,Kaohsiung City
+杜鵑谷 Dujuan Canyon,waterfall,zhuokou_river,E,64000,高雄市,Kaohsiung City
+加九寮滑水道 Jiajiuliao Waterslide,waterfall,jiajiuliao,F,65000,新北市,New Taipei City
+玉峰溪碧潭群 Yufeng River Spirit Pools,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+玉峰溪碧潭群 Yufeng River Spirit Pools,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+雙峰瀑布 Shuangfeng Waterfall,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+水簾洞瀑布 Shuiliandong Waterfall,waterfall,shuiliandong,D,67000,臺南市,Tainan City
+塔克金谷 Take Gorge,waterfall,taigang,J,10004,新竹縣,Hsinchu County
+塔克金谷 Take Gorge,waterfall,take,J,10004,新竹縣,Hsinchu County
+塔克金谷 Take Gorge,waterfall,xiuluan,J,10004,新竹縣,Hsinchu County
+塔克金谷 Take Gorge,waterfall,youling,J,10004,新竹縣,Hsinchu County
+塔克金谷 Take Gorge,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+神龍瀑布 Shenlong Waterfall,waterfall,shenlong,E,64000,高雄市,Kaohsiung City
+八卦瀑布 Bagua Waterfall,waterfall,bagua,K,10005,苗栗縣,Miaoli County
+鐵珊瀑布 Tieshan Waterfall,waterfall,taman,H,68000,桃園市,Taoyuan City
+鐵珊瀑布 Tieshan Waterfall,waterfall,tieshan,H,68000,桃園市,Taoyuan City
+老鷹溪瀑布 Eagle Waterfall,waterfall,eagle,J,10004,新竹縣,Hsinchu County
+老鷹溪瀑布 Eagle Waterfall,waterfall,yufeng_river_spirit_pool,J,10004,新竹縣,Hsinchu County
+玉麗瀑布 Yuli Waterfall,waterfall,caidie,M,10008,南投縣,Nantou County
+聖泉瀑布 Sacred Spring Waterfall,waterfall,sacred_spring,M,10008,南投縣,Nantou County
+馬庫路瀑布 Makulu Waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+能高瀑布 Nenggao Waterfall,waterfall,nenggao,M,10008,南投縣,Nantou County
+霧頭峽谷小瀑 Wutou Canyon,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+加拿瀑布 Jiana Waterfall,waterfall,jaina,V,10014,臺東縣,Taitung County
+情人瀑布 Lovers Waterfall,waterfall,lovers,Q,10010,嘉義縣,Chiayi County
+玉牆瀑布 Wall Waterfall,waterfall,xiaowulai,H,68000,桃園市,Taoyuan City
+茄冬瀑布 Qiedong Waterfall,waterfall,qiedong,F,65000,新北市,New Taipei City
+大尖山瀑布 Dajianshan Waterfall,waterfall,qiedong,F,65000,新北市,New Taipei City
+觀音瀑布 Guanyin Waterfall,waterfall,guanyin,Q,10010,嘉義縣,Chiayi County
+到至情谷瀑布 to Passion Valley Canyon,waterfall,passion_valley,E,64000,高雄市,Kaohsiung City
+玉門關瀑布 Jade Gate Waterfall,waterfall,jade_gate,M,10008,南投縣,Nantou County
+塔曼水簾洞 Taman Dam Waterfall,waterfall,taman,H,68000,桃園市,Taoyuan City
+回音谷瀑布 Echo Valley Waterfall,waterfall,echo_valley,G,10002,宜蘭縣,Yilan County
+月眉坑瀑布 Yuemeikeng Waterfall,waterfall,yuenmeikeng,G,10002,宜蘭縣,Yilan County
+深潭瀑布  ,waterfall,yuenmeikeng,G,10002,宜蘭縣,Yilan County
+清泉瀑布 Qingquan Waterfall,waterfall,celestial,J,10004,新竹縣,Hsinchu County
+清泉瀑布 Qingquan Waterfall,waterfall,qingquan,J,10004,新竹縣,Hsinchu County
+石砦瀑布 Rock Wall Waterfall,waterfall,rock_wall,E,64000,高雄市,Kaohsiung City
+托亞奇伊瀑布 Tuoachiyi Waterfall,waterfall,tuoachiyi,E,64000,高雄市,Kaohsiung City
+九城瀑布 Nine Layer Waterfall ,waterfall,lao_nong_river,E,64000,高雄市,Kaohsiung City
+翠林瀑布 Cuilin Waterfall,waterfall,cuilin,M,10008,南投縣,Nantou County
+冬瓜山瀑布 Wintermelon Waterfall,waterfall,shuiyun,K,10005,苗栗縣,Miaoli County
+天雲谷瀑布 Heavenly Cloud Waterfall,waterfall,shi_pan_gu_river,Q,10010,嘉義縣,Chiayi County
+水簾洞瀑布  Shuiliandong Waterfall ,waterfall,little_papaya,M,10008,南投縣,Nantou County
+舊歸崇瀑布 Old Guichong Waterfall,waterfall,caomang_river,T,10013,屏東縣,Pingtung County
+草芒溪瀑布 Caomang Waterfall,waterfall,caomang_river,T,10013,屏東縣,Pingtung County
+幽情瀑布 Youqing Waterfall,waterfall,dadigu,D,67000,臺南市,Tainan City
+幽情瀑布 Youqing Waterfall,waterfall,youqing,D,67000,臺南市,Tainan City
+佳暮雙瀑布 Jiamu Double Waterfall,waterfall,ailiao_north_river,T,10013,屏東縣,Pingtung County
+力漢瀑布 Lihan Waterfall,waterfall,lili_river,T,10013,屏東縣,Pingtung County
+嗡嗡瀑布  Wangwang Waterfall,waterfall,wangwang,V,10014,臺東縣,Taitung County
+八邊瀑布 Babian Waterfal,waterfall,babian,V,10014,臺東縣,Taitung County
+神谷瀑布群 Shengu waterfall,Waterfall,flag_lake_waterfall,P,10009,雲林縣,Yunlin County
+大鬼瀑布 Big Ghost Waterfall,waterfall,bs_ghost,F,65000,新北市,New Taipei City
+小鬼瀑布 Small Ghost Waterfall,waterfall,bs_ghost,F,65000,新北市,New Taipei City
+拉卡溫泉 Laka Spring,hot_spring,laka,G,10002,宜蘭縣,Yilan County
